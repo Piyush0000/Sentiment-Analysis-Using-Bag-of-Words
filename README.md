@@ -248,52 +248,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- IMDB for the dataset
-- scikit-learn community
-- NLTK developers
-- All contributors and supporters
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you found it helpful!
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
-
-**Made with ❤️ for NLP enthusiasts**
-
-</div>
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sentiment-analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sentiment-analysis?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/sentiment-analysis?style=social)
-
----
-
-<div align="center">
-  <sub>Built with 🔥 by passionate developers</sub>
-</div>
